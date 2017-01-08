@@ -34,7 +34,7 @@ Note also that this does not take you to a polymer starter kit 404, but to a nak
  * > polymer init - then chose starter-kit
  * > polymer build
  * > polymer serve - for localhost
- * > scp [to cliffdweller.work https site]
+ * > scp **build/unbundled** [to cliffdweller.work https site]
  * created this README
  * committed to github
 
