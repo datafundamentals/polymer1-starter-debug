@@ -41,4 +41,5 @@ Note also that this does not take you to a polymer starter kit 404, but to a nak
 
 ### Stack Overflow
 
-Hopefully by the time you read this I have put it up on stack overflow.
+Here is the question on stackoverflow. Jeez I sure hope I don't get flamed horribly.
+https://stackoverflow.com/questions/41535672/polymer-starter-kit-navigation-by-url-broken-but-only-when-deployed
